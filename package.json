@@ -1,0 +1,16 @@
+{
+  "name": "Raiffeisen-Gartung",
+  "version": "1.0.0",
+  "description": "QA Challenge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartungkk/"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^12.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
+    "cypress": "^10.6.0",
+    "esbuild": "^0.14.54"
+  }
+}
