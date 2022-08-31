@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hartungkk/"
+    "url": "git+https://github.com/hartungkk/Raiffeisen.git/"
   },
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^12.1.0",

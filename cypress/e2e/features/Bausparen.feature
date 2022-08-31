@@ -1,4 +1,4 @@
-   Feature: tests examples
+   Feature: tests for Bausparen
     
     Scenario: user can download information about the product
     When I visit Bausparen web page
