@@ -7,6 +7,13 @@
     "type": "git",
     "url": "git+https://github.com/hartungkk/Raiffeisen.git/"
   },
+  "scripts": {
+    "test": "node_modules/.bin/cypress run",
+    "test-chrome": "npm run test —browser chrome",
+    "test-edge": "npm run test —browser edge",
+    "test-firefox": "npm run test —browser firefox",
+    "app": "node_modules/.bin/cypress open"
+  },
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^12.1.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
